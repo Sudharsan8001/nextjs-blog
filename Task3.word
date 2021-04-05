@@ -1,0 +1,10 @@
+How can your code be made cross-platform compatible by using ionic-react? What do you have to change?
+
+
+By using typescript in our code or by capacitor as an api, it’s possible to make our code cross-platform compatible by using ionic-react.
+
+And these are the changes we have to do
+* add @ionic/react as a dependency.
+* import Ionic React component and use it.
+* use the ionic tag elements.
+* Use ts or tsx file extension instead of js.

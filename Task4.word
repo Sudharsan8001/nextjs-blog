@@ -1,0 +1,10 @@
+What is typescript? how will using typescript with react/next help maintain a clean code base?
+
+
+TypeScript is an open-source language which builds on JavaScript, by adding static type definitions. All valid JavaScript code is also
+TypeScript code. TypeScript code is transformed into JavaScript code via the TypeScript compiler or Babel. This JavaScript is clean, simple
+code which runs anywhere JavaScript runs: In a browser, on Node.JS or in your apps. 
+
+It helps maintain a clean code base like which we used here in the first task. Briefly, we used the location as a common index page, in that
+we used to call each location function on its call. We are using three different location for the same index page, instead of giving access
+to each of the location in the same index page.
